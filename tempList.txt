@@ -1,0 +1,867 @@
+[
+    {
+        "url": "http://nicke85.000webhostapp.com/upute_video.mp4", 
+        "image": "http://iptv.nicke85.com/logos/free_info.jpg", 
+        "name": "[COLOR blue]• Uputstvo za instalaciju addona •[/COLOR]"
+    }, 
+    {
+        "url": "http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTS1_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  RTS 1"
+    }, 
+    {
+        "url": "http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTS2_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  RTS 2"
+    }, 
+    {
+        "url": "http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTS3_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  RTS 3"
+    }, 
+    {
+        "url": "http://best-str.xtim.tv:8080/stream?stream=orig&channel=rtshd", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTSHD_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  RTS FHD"
+    }, 
+    {
+        "url": "https://tv.si/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTSSvet_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  RTS Svet"
+    }, 
+    {
+        "url": "mmsh://212.200.255.151/rtv1?MSWMExt=.asf", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTV1_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  RTV 1 Vojvodina"
+    }, 
+    {
+        "url": "mmsh://212.200.255.151/rtv2?MSWMExt=.asf", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTV2_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  RTV 2 Vojvodina"
+    }, 
+    {
+        "url": "http://dynds.iptvposokuca.info:80/live?channelId=12&uid=81&deviceUser=mirkohrrazmena&devicePass=proba", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/Prva_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Prva"
+    }, 
+    {
+        "url": "http://tvmaksi.iptvposokuca.info:80/live?channelId=211&uid=81&deviceUser=mirkohrrazmena&devicePass=proba", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/prva_max_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Prva Max"
+    }, 
+    {
+        "url": "http://maksitv.iptvposokuca.info:80/live?channelId=144&uid=81&deviceUser=mirkohrrazmena&devicePass=proba", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/prva_plus_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Prva Plus"
+    }, 
+    {
+        "url": "http://tvmaksi.iptvposokuca.info:80/live?channelId=210&uid=81&deviceUser=mirkohrrazmena&devicePass=proba", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/Prva_world_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Prva World"
+    }, 
+    {
+        "url": "http://best.str.n1info.com:8080/stream?sp=n1info?channel=n1bih?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/N1_n85.png", 
+        "name": "[COLOR blue][exyu][bih][/COLOR]  -  N1 HD"
+    }, 
+    {
+        "url": "http://best.str.n1info.com:8080/stream?sp=n1info?channel=n1srb?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/N1_n85.png", 
+        "name": "[COLOR blue][exyu][srb][/COLOR]  -  N1 HD"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14088.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/novam_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Nova M"
+    }, 
+    {
+        "url": "rtmp://188.40.95.74:1935/live/livestream", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/rtvub_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  RTV City Ub"
+    }, 
+    {
+        "url": "http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8|User-Agent=VLC/3.0.6 LibVLC/3.0.6", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/StudioB_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Studio B"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14103.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/novabh_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Nova bh"
+    }, 
+    {
+        "url": "http://stream.rtvpuls.com/broadcasting", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTVPULS_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Puls"
+    }, 
+    {
+        "url": "http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8|User-Agent=VLC/3.0.6 LibVLC/3.0.6", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTRS_plus_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  RTRS Plus"
+    }, 
+    {
+        "url": "http://tvstream.rtvbn.com:1935/live/stream/chunklist.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/BNbih_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  BN"
+    }, 
+    {
+        "url": "https://tv.si/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/hayat_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Hayat"
+    }, 
+    {
+        "url": "http://77.46.147.94:9250/", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/sandzaktv_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Sandžak TV"
+    }, 
+    {
+        "url": "http://178.132.6.97:8080/BA:TVSarajevo1/playlist.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/sarajevotv_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  TV Sarajevo"
+    }, 
+    {
+        "url": "http://vps.oneit.rs/pikanal/pgm.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PIKanal_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  PI Kanal"
+    }, 
+    {
+        "url": "http://178.253.194.75:1935/live/hram.stream/.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/hram_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  TV Hram"
+    }, 
+    {
+        "url": "rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/glasdrine_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Glas Drine TV"
+    }, 
+    {
+        "url": "http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/leskovac_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Leskovac"
+    }, 
+    {
+        "url": "http://178.132.6.97/RTVZenica1/tracks-v1a1/mono.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/zenicatv_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  Zenica Tv"
+    }, 
+    {
+        "url": "http://31.47.0.130:8082", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/slonextra_n85.png", 
+        "name": "[COLOR blue][exyu][/COLOR]  -  TV Slon Tuzla"
+    }, 
+    {
+        "url": "http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/playlist.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTCG_sat_n85.png", 
+        "name": "[COLOR indianred][mon][/COLOR]  -  RTCG Sat"
+    }, 
+    {
+        "url": "http://195.29.70.67/PLTV/88888888/224/3221226139/04.m3u8|User-Agent=VLC", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/HRT1_n85.png", 
+        "name": "[COLOR orange][cro][/COLOR]  -  HRT 1"
+    }, 
+    {
+        "url": "http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8|User-Agent=VLC", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/HRT2_n85.png", 
+        "name": "[COLOR orange][cro][/COLOR]  -  HRT 2"
+    }, 
+    {
+        "url": "http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8|User-Agent=VLC", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/HRT3_n85.png", 
+        "name": "[COLOR orange][cro][/COLOR]  -  HRT 3"
+    }, 
+    {
+        "url": "http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8|User-Agent=VLC", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/HRT4_n85.png", 
+        "name": "[COLOR orange][cro][/COLOR]  -  HRT 4"
+    }, 
+    {
+        "url": "http://best.str.n1info.com:8080/stream?sp=n1info?channel=n1hr?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/N1_n85.png", 
+        "name": "[COLOR orange][cro][/COLOR]  -  N1 HD"
+    }, 
+    {
+        "url": "http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8|User-Agent=VLC", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/NBcommedy_n85.png", 
+        "name": "[COLOR orange][cro][/COLOR]  -  NB"
+    }, 
+    {
+        "url": "http://89.201.163.244:8080/hls/hdmi.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/stv_n85.png", 
+        "name": "[COLOR orange][cro][/COLOR]  -  Slavonska TV Osijek"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/Slo1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/TVSLO1_n85.png", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  SLO 1"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/Slo2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/TVSLO2_n85.png", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  SLO 2"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/Slo3/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/TVSLO3_n85.png", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  SLO 3"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/PopTV/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/poptv_n85.png", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  Pop TV"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/PopOto/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/popoto_n85.png", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  PopOto"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/PopKino/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/popkino_n85.png", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  PopKino"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/MGM/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  AMC"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  Animal Planet"
+    }, 
+    {
+        "url": "https://tv.si/ts/AXN/stream_multi.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  AXN"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/Carli/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  Carli"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  DaVinchi Learning"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/Discovery/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  Discovery"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/Disney/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  Disney"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/Hallmark/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  DIVA"
+    }, 
+    {
+        "url": "https://tv.si/ts/EEUROPE/stream_multi.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  E! Entertainment"
+    }, 
+    {
+        "url": "https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  Eurosport"
+    }, 
+    {
+        "url": "https://tv.si/ts/EXTREME/stream_multi.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  Extreme Sport"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/HBO/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/HBOHD_n85.png", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  HBO"
+    }, 
+    {
+        "url": "https://tv.si/ts/HBOC/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/HBO2HD_n85.png", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  HBO 2"
+    }, 
+    {
+        "url": "https://tv.si/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/HBO3HD_n85.png", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  HBO 3"
+    }, 
+    {
+        "url": "https://tv.si/ts/History/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  History"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/AKanal/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  Kanal A"
+    }, 
+    {
+        "url": "https://tv.si/ts/NET/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  NET"
+    }, 
+    {
+        "url": "https://tv.si/ts/Nova24TV/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  Nova24"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/PlanetTV/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  PlanetTV"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/DISCTLC/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  TLC"
+    }, 
+    {
+        "url": "https://tv.si/ts/Travel/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  Travel"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/PinkTV3/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR yellowgreen][slo][/COLOR]  -  TV3"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14107.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pink1_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink 1"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14106.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pink1_n85.png", 
+        "name": "[COLOR hotpink][pink][l2][/COLOR]  -  Pink 1"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14105.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pink3_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink 3 Info"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14104.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkaction_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Action"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14102.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkclassic_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Classic"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14101.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkComedy_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Comedy"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14099.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkExtra_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Extra"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14100.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkCrimeMistery_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Crime & Mystery"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14098.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkfamily_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Family"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14097.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkfilm_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Film"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14092.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkHorror_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Horror"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14089.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinklol_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink LOL"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14090.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkKuvar_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Kuvar"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14084.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkPedia_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Pedia"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14082.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkPremium_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Premium"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14081.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkReality_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Reality"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14083.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkPlus_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Plus"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14080.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkRomance_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Romance"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14079.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkSciFiFantasy_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Sci-Fi & Fantasy"
+    }, 
+    {
+        "url": "https://tv.si/ts/PinkSi/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkslo_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink SI (Slo)"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14078.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkSerije_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Serije"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14077.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkShow_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Show"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14076.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkSoap_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Soap"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14075.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkStyle_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Style"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14074.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkThriller_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Thriller"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14073.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkwestern_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink Western"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14072.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkworld_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink World"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14071.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkWorldCinema_n85.png", 
+        "name": "[COLOR hotpink][pink][/COLOR]  -  Pink World Cinema"
+    }, 
+    {
+        "url": "", 
+        "image": "https://vignette.wikia.nocookie.net/logopedia/images/2/25/FilmBox_Extra_HD.png/revision/latest?cb=20161213135724", 
+        "name": "[COLOR orangered][movie][/COLOR]  -  FilmBox Extra HD"
+    }, 
+    {
+        "url": "http://185.67.179.250/play/a015/index.m3u8", 
+        "image": "http://tvprofil.net/img/kanali-logo/filmbox_plus_cz.png", 
+        "name": "[COLOR orangered][movie][/COLOR]  -  FilmBox Plus"
+    }, 
+    {
+        "url": "http://185.67.179.250/play/a016/index.m3u8", 
+        "image": "", 
+        "name": "[COLOR orangered][movie][/COLOR]  -  FilmBox Arthouse"
+    }, 
+    {
+        "url": "http://185.67.179.250/play/a014/index.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/FK2_n85.png", 
+        "name": "[COLOR orangered][movie][/COLOR]  -  Film klub extra"
+    }, 
+    {
+        "url": "http://185.67.179.250/play/a017/index.m3u8", 
+        "image": "", 
+        "name": "[COLOR orangered][movie][/COLOR]  -  FilmBox Premium"
+    }, 
+    {
+        "url": "http://37.26.71.125:19202", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/animalplanet_n85.png", 
+        "name": "[COLOR khaki][doc][/COLOR]  -  Animal planet"
+    }, 
+    {
+        "url": "http://190.13.120.114/streams/bbcworld.m3u8", 
+        "image": "", 
+        "name": "[COLOR khaki][doc][/COLOR]  -  BBC World News"
+    }, 
+    {
+        "url": "http://37.26.71.125:19201", 
+        "image": "https://www.tvsa.co.za/images/uploads/thumbs/0050418.png", 
+        "name": "[COLOR khaki][doc][/COLOR]  -  Discovery Channel"
+    }, 
+    {
+        "url": "http://37.26.71.125:19203", 
+        "image": "", 
+        "name": "[COLOR khaki][doc][/COLOR]  -  Discovery ID Extra"
+    }, 
+    {
+        "url": "https://tv.si/ts/FISHUN/stream_iptv_2000k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/LovIRibolov_n85.png", 
+        "name": "[COLOR khaki][doc][slo][/COLOR]  -  Lov i Ribolov"
+    }, 
+    {
+        "url": "https://tv.si/ts/NGCWild/stream_multi.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/natgeowild_n85.png", 
+        "name": "[COLOR khaki][doc][/COLOR]  -  Nat Geo Wild"
+    }, 
+    {
+        "url": "http://194.54.183.122:8000/play/a01j|User-Agent=\"Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3\"", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/TLC_n85.png", 
+        "name": "[COLOR khaki][doc][/COLOR]  -  TLC"
+    }, 
+    {
+        "url": "https://vipottbpkstream.vip.hr/Content/vipnet-hls-vmx/Live/Channel(Travel_Channel)/index.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/travelch_n85.png", 
+        "name": "[COLOR khaki][doc][/COLOR]  -  Travel Channel"
+    }, 
+    {
+        "url": "http://uiptv.do.am/1ufc/702424953/playlist.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/RTRussia_n85.png", 
+        "name": "[COLOR khaki][doc][/COLOR]  -  RT Russia today"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/disneyxd_n85.png", 
+        "name": "[COLOR lightcoral][kids][/COLOR]  -  Disney XD  -  [COLOR lightcoral][uk][/COLOR]"
+    }, 
+    {
+        "url": "http://tv.si/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/boomerang_n85.png", 
+        "name": "[COLOR lightcoral][kids][/COLOR]  -  Boomerang  -  [COLOR lightcoral][de][/COLOR]"
+    }, 
+    {
+        "url": "https://tv.si/ts/Cartoon/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/CartoonNet_n85.png", 
+        "name": "[COLOR lightcoral][kids][/COLOR]  -  Cartoon Network  -  [COLOR lightcoral][uk][/COLOR]"
+    }, 
+    {
+        "url": "http://persik.by/stream/7603/385167/454.m3u8", 
+        "image": "http://liveitkodi.com/Logos/JIM%20JAM.png", 
+        "name": "[COLOR lightcoral][kids][/COLOR]  -  JimJam  -  [COLOR lightcoral][ru][/COLOR]"
+    }, 
+    {
+        "url": "https://tv.si/ts/NICKLEODEON/stream_multi.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/Nickelodeon_n85.pn", 
+        "name": "[COLOR lightcoral][kids][s;p][/COLOR]  -  Nickelodeon"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14091.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkkids_n85.png", 
+        "name": "[COLOR lightcoral][kids][/COLOR]  -  [COLOR hotpink]Pink[/COLOR] Kids"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/babytv_n85.png", 
+        "name": "[COLOR lightcoral][kids][/COLOR]  -  Baby TV"
+    }, 
+    {
+        "url": "http://137.74.114.60:8080/hls/balkanmusic.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/balkanMusic_n85.png", 
+        "name": "[COLOR darkorange][YUmusic][mk][/COLOR]  -  Balkan music"
+    }, 
+    {
+        "url": "http://84.43.207.130/planetahd/planetahd.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/planetaHD_n85.png", 
+        "name": "[COLOR darkorange][YUmusic][bg][/COLOR]  -  Planeta HD"
+    }, 
+    {
+        "url": "http://tv.si/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "http://tvprofil.net/img/kanali-logo/CMC_TV_logo.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  CMC"
+    }, 
+    {
+        "url": "https://tv.si/ts/DMSAT/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "https://totaltv.tv/oec/images/tv_channels/175df435373b70dcec39a3290f0f8bdf.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  DM SAT"
+    }, 
+    {
+        "url": "http://185.46.161.3/hls/hd.m3u8", 
+        "image": "", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  Roma Music HD"
+    }, 
+    {
+        "url": "http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8", 
+        "image": "http://www.tvdugaplus.com/wp-content/uploads/2014/09/logo-90px.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  TV Duga plus"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14096.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkFolk1_n85.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  [COLOR hotpink]Pink[/COLOR] Folk 1"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14095.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkFolk2_n85.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  [COLOR hotpink]Pink[/COLOR] Folk 2"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14093.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkhits_n85.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  [COLOR hotpink]Pink[/COLOR] Hits 1"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14086.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkMusic_n85.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  [COLOR hotpink]Pink[/COLOR] Music"
+    }, 
+    {
+        "url": "http://194.88.107.101:6204/live/OoesIRzgNP/8kW83aN4dr/14085.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/PinkMusic2_n85.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  [COLOR hotpink]Pink[/COLOR] Music 2"
+    }, 
+    {
+        "url": "http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/yuplanet_n85.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  YU Planet RTV Bec  -  [COLOR darkorange][srb][/COLOR]"
+    }, 
+    {
+        "url": "rtmp://video.radio-banovina.hr/live/myStream", 
+        "image": "http://nextgen-iptv.com/logo/RTVBanovina_HR.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  RTV Banovina  -  [COLOR darkorange][cro][/COLOR]"
+    }, 
+    {
+        "url": "http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/TopSound_n85.png", 
+        "name": "[COLOR darkorange][YUmusic][/COLOR]  -  TOP Sound TV"
+    }, 
+    {
+        "url": "http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  Hit TV"
+    }, 
+    {
+        "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  M20"
+    }, 
+    {
+        "url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  MTV"
+    }, 
+    {
+        "url": "http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  Music Box"
+    }, 
+    {
+        "url": "http://212.26.132.86/hls/mb_ua_2500.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  Music Box ua"
+    }, 
+    {
+        "url": "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  Music Choice"
+    }, 
+    {
+        "url": "http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  NRJ Hits"
+    }, 
+    {
+        "url": "http://94.130.255.149:8080/hls/opoka_tv_live.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  Opoka TV Music"
+    }, 
+    {
+        "url": "http://rtmp.one.by:2300", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  One By 2 HD"
+    }, 
+    {
+        "url": "https://tv.si/ts/VH1/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  VH1"
+    }, 
+    {
+        "url": "https://tv.si/ts/VH1CLA/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  VH1 Classic"
+    }, 
+    {
+        "url": "https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  Pilatus Beatz TV"
+    }, 
+    {
+        "url": "http://wow01.105.net:1935/live/105Test1/livestream.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  Radio 105"
+    }, 
+    {
+        "url": "https://de1se01.v2beat.live/playlist.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/v2beat_n85.png", 
+        "name": "[COLOR olive][music][/COLOR]  -  Vibee TV (v2beat)"
+    }, 
+    {
+        "url": "http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/virgin_n85.png", 
+        "name": "[COLOR olive][music][/COLOR]  -  Virgin TV"
+    }, 
+    {
+        "url": "http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  Xite Base"
+    }, 
+    {
+        "url": "http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8", 
+        "image": "", 
+        "name": "[COLOR olive][music][/COLOR]  -  Xite Pop"
+    }, 
+    {
+        "url": "https://tv.si/ts/Ginx/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/Ginx_n85.png", 
+        "name": "[COLOR lime][sport][/COLOR]  -  Ginx"
+    }, 
+    {
+        "url": "http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1361", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/sk1_n85.png", 
+        "name": "[COLOR lime][sport][srb][/COLOR]  -  SK 1 HD"
+    }, 
+    {
+        "url": "http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1360", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/sk2_n85.png", 
+        "name": "[COLOR lime][sport][srb][/COLOR]  -  SK 2 HD"
+    }, 
+    {
+        "url": "http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1359", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/sk3_n85.png", 
+        "name": "[COLOR lime][sport][srb][/COLOR]  -  SK 3 HD"
+    }, 
+    {
+        "url": "http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1358", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/sk4_n85.png", 
+        "name": "[COLOR lime][sport][srb][/COLOR]  -  SK 4"
+    }, 
+    {
+        "url": "http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1357", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/sk5_n85.png", 
+        "name": "[COLOR lime][sport][srb][/COLOR]  -  SK 5"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/SportKlub/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/sporttv1_n85.png", 
+        "name": "[COLOR lime][sport][slo][/COLOR]  -  Sport TV 1 HD"
+    }, 
+    {
+        "url": "https://tv.si/LIVE/S2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/sporttv2_n85.png", 
+        "name": "[COLOR lime][sport][slo][/COLOR]  -  Sport TV 2 HD"
+    }, 
+    {
+        "url": "https://tv.si/ts/EXTREME/stream_multi.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "https://1.bp.blogspot.com/-MiEzyuyLLtA/WQpQu7YzxpI/AAAAAAAAFtw/9aZiAEBmdQgVEkOfnf3Audfd-jiHNEttwCLcB/s1600/extreme_sports_fr.png", 
+        "name": "[COLOR lime][sport][/COLOR]  -  Extreme Sports"
+    }, 
+    {
+        "url": "http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8", 
+        "image": "https://store-images.s-microsoft.com/image/apps.17102.9007199266286060.e5a6c641-2165-46d1-90f1-429549b643cd.baa183a4-ef9a-488a-a0e1-fab4395f0c7d?w=180&h=180&q=60", 
+        "name": "[COLOR lime][sport][/COLOR]  -  Redbull TV"
+    }, 
+    {
+        "url": "http://62.210.247.47:8000/live/NtocJWifwF/jeEs79QdSb/48.ts", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/FoxSport1NL_n85.png", 
+        "name": "[COLOR lime][sport][nl][/COLOR]  -  Fox Sports 1 HD"
+    }, 
+    {
+        "url": "http://62.210.247.47:8000/live/NtocJWifwF/jeEs79QdSb/49.ts", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/FoxSport2NL_n85.png", 
+        "name": "[COLOR lime][sport][/COLOR]  -  Fox Sports 2 HD"
+    }, 
+    {
+        "url": "http://62.210.247.47:8000/live/NtocJWifwF/jeEs79QdSb/50.ts", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/FoxSport3NL_n85.png", 
+        "name": "[COLOR lime][sport][/COLOR]  -  Fox Sports 3 HD"
+    }, 
+    {
+        "url": "http://62.210.247.47:8000/live/NtocJWifwF/jeEs79QdSb/51.ts", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/FoxSport4NL_n85.png", 
+        "name": "[COLOR lime][sport][/COLOR]  -  Fox Sports 4"
+    }, 
+    {
+        "url": "http://62.210.247.47:8000/live/NtocJWifwF/jeEs79QdSb/52.ts", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/FoxSport5NL_n85.png", 
+        "name": "[COLOR lime][sport][/COLOR]  -  Fox Sports 5"
+    }, 
+    {
+        "url": "http://62.210.247.47:8000/live/NtocJWifwF/jeEs79QdSb/53.ts", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/FoxSport6NL_n85.png", 
+        "name": "[COLOR lime][sport][/COLOR]  -  Fox Sports 6"
+    }, 
+    {
+        "url": "https://tv.si/ts/Dusk/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR tomato][xxx][/COLOR]  -  Dusk"
+    }, 
+    {
+        "url": "https://tv.si/ts/DORCEL/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR tomato][xxx][/COLOR]  -  Dorcel HD"
+    }, 
+    {
+        "url": "https://tv.si/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR tomato][xxx][/COLOR]  -  Hustler HD"
+    }, 
+    {
+        "url": "https://tv.si/ts/SEXT6SENSO/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia", 
+        "image": "", 
+        "name": "[COLOR tomato][xxx][/COLOR]  -  Pasion XXX"
+    }, 
+    {
+        "url": "http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0", 
+        "image": "", 
+        "name": "[COLOR tomato][xxx][/COLOR]  -  Jasmin.TV"
+    }, 
+    {
+        "url": "http://maksitv.iptvposokuca.info:80/live?channelId=137&uid=81&deviceUser=mirkohrrazmena&devicePass=proba", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkerotic1_n85.png", 
+        "name": "[COLOR tomato][xxx][/COLOR]  -  [COLOR hotpink]Pink[/COLOR] Erotic"
+    }, 
+    {
+        "url": "http://maksitv.iptvposokuca.info:80/live?channelId=143&uid=81&deviceUser=mirkohrrazmena&devicePass=proba", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkerotic2_n85.png", 
+        "name": "[COLOR tomato][xxx][/COLOR]  -  [COLOR hotpink]Pink[/COLOR] Erotic 2"
+    }, 
+    {
+        "url": "http://maksitv.iptvposokuca.info:80/live?channelId=138&uid=81&deviceUser=mirkohrrazmena&devicePass=proba", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkerotic3_n85.png", 
+        "name": "[COLOR tomato][xxx][/COLOR]  -  [COLOR hotpink]Pink[/COLOR] Erotic 3"
+    }, 
+    {
+        "url": "http://maksitv.iptvposokuca.info:80/live?channelId=139&uid=81&deviceUser=mirkohrrazmena&devicePass=proba", 
+        "image": "http://iptv.nicke85.com/n85_channel_logos/pinkerotic4_n85.png", 
+        "name": "[COLOR tomato][xxx][/COLOR]  -  [COLOR hotpink]Pink[/COLOR] Erotic 4"
+    }, 
+    {
+        "url": "http://play.lanet.tv/live/2009.m3u8", 
+        "image": "https://manuebr.files.wordpress.com/2014/02/1012558_636668389701613_1217012446_n.jpg", 
+        "name": "[COLOR moccasin][chill][/COLOR]  -  Vatra u kaminu 4K HD"
+    }, 
+    {
+        "url": "rtmp://cam.nsprozor.com:1935/kamere/live/TrgSlobode.stream", 
+        "image": "", 
+        "name": "[COLOR gold][live][/COLOR]  -  Novi Sad - Trg Slobode"
+    }
+]
